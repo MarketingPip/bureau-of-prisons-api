@@ -94,3 +94,8 @@ https://www.reddit.com/r/socialistprogrammers/comments/3zij7s/undocumented_feder
 
 
 https://prisondb.github.io/bopapidocs.html
+
+
+## News
+
+https://www.bop.gov/PublicInfo/execute/news?todo=query&output=json
