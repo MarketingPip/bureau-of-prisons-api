@@ -107,3 +107,5 @@ https://www.bop.gov/PublicInfo/execute/policysearch?todo=query&output=json
 ## Unknown
 
 https://www.bop.gov/PublicInfo/execute/foiadoc?todo=query&output=json
+
+https://www.bop.gov/PublicInfo/execute/rrc?todo=query&output=json
