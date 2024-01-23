@@ -99,3 +99,7 @@ https://prisondb.github.io/bopapidocs.html
 ## News
 
 https://www.bop.gov/PublicInfo/execute/news?todo=query&output=json
+
+## Policy Search
+
+https://www.bop.gov/PublicInfo/execute/policysearch?todo=query&output=json
