@@ -66,3 +66,31 @@ https://www.bop.gov/coronavirus/json/final.json
 + Staff Testing Positive
 + Staff Recoveries
 + Staff Death Amount
+
++ # Inmate
++ https://www.bop.gov/PublicInfo/execute/inmateloc?todo=query&output=json&nameFirst=Jeremy&nameLast=Hammond
+
+
+Stumbled upon this API, and thought others might find it as interesting as I do:
+
+Base API URL: http://www.bop.gov/PublicInfo/execute/
+
+Prison Location Endpoint: /locations
+
+The following URL lists all of the prisons. You can filter the results by adding query parameters that match the prison objects fields.
+
+http://www.bop.gov/PublicInfo/execute/locations?todo=query&output=json
+
+Prisoner Locator Endpoint: /inmateloc
+
+Either the inmateNum field or nameFirst and nameLast or required. For example the following URL:
+
+http://www.bop.gov/PublicInfo/execute/inmateloc?todo=query&output=json&nameFirst=Jeremy&nameLast=Hammond
+
+This could be used to plot inmate locations on a map and/or gathering data for statistical analyses. I hope you find it useful or interesting.
+
+
+https://www.reddit.com/r/socialistprogrammers/comments/3zij7s/undocumented_federal_bureau_of_prisons_api/
+
+
+https://prisondb.github.io/bopapidocs.html
