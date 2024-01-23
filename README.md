@@ -108,4 +108,6 @@ https://www.bop.gov/PublicInfo/execute/policysearch?todo=query&output=json
 
 https://www.bop.gov/PublicInfo/execute/foiadoc?todo=query&output=json
 
+https://www.bop.gov/PublicInfo/execute/forms?todo=query&output=json
+
 https://www.bop.gov/PublicInfo/execute/rrc?todo=query&output=json
