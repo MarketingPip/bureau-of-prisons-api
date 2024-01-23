@@ -33,7 +33,7 @@ The JSON response contains all of the following stats:
 
 Location Endpoint:
 ------------------
-https://www.bop.gov/coronavirus/data/locations.json
+[https://www.bop.gov/coronavirus/data/locations.json](https://www.bop.gov/PublicInfo/execute/locations?todo=query&output=json)
 
 *Information about FOB Facilities*
 + Name
