@@ -103,3 +103,7 @@ https://www.bop.gov/PublicInfo/execute/news?todo=query&output=json
 ## Policy Search
 
 https://www.bop.gov/PublicInfo/execute/policysearch?todo=query&output=json
+
+## Unknown
+
+https://www.bop.gov/PublicInfo/execute/foiadoc?todo=query&output=json
